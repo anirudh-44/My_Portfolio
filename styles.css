@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  padding: 16px;
+}
+
+.container > div > h3 {
+  text-align: center;
+}
+
+.profpic {
+  background-color: black;
+  color: whitesmoke;
+  margin: -16px;
+  padding: 16px;
+  text-align: center;
+}
+
+.profpic img {
+  height: 400px;
+  width: 400px;
+}
+
+.socialLinks img {
+  height: 40px;
+  width: 40px;
+}
+
+.socialLinks a {
+  text-decoration: none;
+  margin: auto 8px;
+}
+
+#aboutme {
+  background-color: #00c5ff;
+  padding: 5px;
+  margin: -16px;
+}
+
+#skills {
+  /* background-color: #4c41c9bf; */
+  background-color: #4c41c9;
+  margin: -16px;
+  padding: 5px;
+}
