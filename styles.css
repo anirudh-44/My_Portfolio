@@ -46,3 +46,7 @@ body {
   margin: -16px;
   padding: 5px;
 }
+
+.dynamic-text-color {
+  color: red;
+}
